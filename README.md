@@ -10,7 +10,7 @@ Bu PowerShell komutları, bir Windows bilgisayarının sistem, ağ bağlantısı
 
 3. Çıktı, `$computerName-Bilgi.txt` adlı bir metin dosyasına kaydedilecektir. Dosya, D sürücüsünde oluşturulur.
 
-## Örnek
+## Örnek Çıktı
 
 ```powershell
 Bilgisayar Adı: DENEME
@@ -32,4 +32,11 @@ Ağ Bağlantısı Bilgileri:
 
 Disk Bilgileri:- C:: Toplam Alan: 480 GB, BoÅŸ Alan: 79.91 GB
 - D:: Toplam Alan: 320 GB, BoÅŸ Alan: 181.14 GB
+```
+
+## Lisans
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
 
